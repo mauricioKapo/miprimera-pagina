@@ -1,1 +1,226 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mi primera página web</title>
+</head>
+
+<body bgcolor="#101827" text="white">
+
+    <header>
+
+        <h1 align="center">
+            <font color="#FFD700">
+                🚀 ¡HOLA, MUNDO!
+            </font>
+        </h1>
+
+        <h2 align="center">
+            <font color="#00FFFF">
+                Mi primera página web
+            </font>
+        </h2>
+
+        <p align="center">
+            <font color="#FFFFFF" size="4">
+                Bienvenido a mi primera página creada completamente con HTML.
+            </font>
+        </p>
+
+    </header>
+
+    <hr>
+
+    <nav align="center">
+
+        <font size="4">
+
+            <a href="#inicio">
+                <font color="#FFD700">🏠 Inicio</font>
+            </a>
+
+            &nbsp; | &nbsp;
+
+            <a href="#sobre-mi">
+                <font color="#00FFFF">👨‍💻 Sobre mí</font>
+            </a>
+
+            &nbsp; | &nbsp;
+
+            <a href="#favoritos">
+                <font color="#FF69B4">🔥 Favoritos</font>
+            </a>
+
+            &nbsp; | &nbsp;
+
+            <a href="#contacto">
+                <font color="#90EE90">📞 Contacto</font>
+            </a>
+
+        </font>
+
+    </nav>
+
+    <hr>
+
+    <main>
+
+        <section id="inicio">
+
+            <h2>
+                <font color="#FFD700">
+                    🏠 Inicio
+                </font>
+            </h2>
+
+            <p>
+                <font color="#FFFFFF" size="4">
+                    Hola, mi nombre es Mauricio y estoy aprendiendo
+                    a crear páginas web.
+                </font>
+            </p>
+
+            <p>
+                <font color="#00FFFF">
+                    Este es mi primer proyecto utilizando HTML.
+                </font>
+            </p>
+
+        </section>
+
+        <hr>
+
+        <section id="sobre-mi">
+
+            <h2>
+                <font color="#00FFFF">
+                    👨‍💻 Sobre mí
+                </font>
+            </h2>
+
+            <p>
+                <font color="#FFFFFF" size="4">
+                    Me interesa la programación, la informática
+                    y aprender a crear páginas web.
+                </font>
+            </p>
+
+        </section>
+
+        <hr>
+
+        <section id="favoritos">
+
+            <h2>
+                <font color="#FF69B4">
+                    🔥 Mis cosas favoritas
+                </font>
+            </h2>
+
+            <ul>
+
+                <li>
+                    <font color="#FFD700">
+                        💻 Programar
+                    </font>
+                </li>
+
+                <li>
+                    <font color="#00FFFF">
+                        🎮 Aprender informática
+                    </font>
+                </li>
+
+                <li>
+                    <font color="#90EE90">
+                        🌐 Crear páginas web
+                    </font>
+                </li>
+
+                <li>
+                    <font color="#FF69B4">
+                        🚀 Aprender cosas nuevas
+                    </font>
+                </li>
+
+            </ul>
+
+        </section>
+
+        <hr>
+
+        <section>
+
+            <h2>
+                <font color="#90EE90">
+                    ⭐ Mis objetivos
+                </font>
+            </h2>
+
+            <ol>
+
+                <li>Aprender HTML</li>
+                <li>Aprender CSS</li>
+                <li>Aprender JavaScript</li>
+                <li>Crear mi propia página web</li>
+
+            </ol>
+
+        </section>
+
+        <hr>
+
+        <section id="contacto">
+
+            <h2>
+                <font color="#FFD700">
+                    📞 Contacto
+                </font>
+            </h2>
+
+            <p>
+                <font color="#FFFFFF">
+                    Si quieres contactarme, puedes hacerlo aquí:
+                </font>
+            </p>
+
+            <a href="mailto:ejemplo@gmail.com">
+                <font color="#00FFFF" size="4">
+                    📧 Enviar correo
+                </font>
+            </a>
+
+            <br><br>
+
+            <button>
+                ⭐ Haz clic aquí ⭐
+            </button>
+
+        </section>
+
+    </main>
+
+    <hr>
+
+    <footer align="center">
+
+        <p>
+            <font color="#FFD700">
+                © 2026 Mi primera página web
+            </font>
+        </p>
+
+        <p>
+            <font color="#00FFFF">
+                Creada con ❤️ usando HTML
+            </font>
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
+
 
